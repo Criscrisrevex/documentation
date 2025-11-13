@@ -21,7 +21,7 @@ Each Climate Impact Chain includes a detailed explanation of its sequences, allo
 
 # Climate Impact Chain 1. 
 **Main Risk: Degradation of urban ecosystems due to urban heat and droughts.** 
-<img width="622" height="310" alt="image" src="https://github.com/user-attachments/assets/c7f1ba19-d6a1-4a95-81cd-461de85cca95" />
+![image](CIC_1.png)
 
 **Key Policy Issues:**
 * Urban heat island effect and drought degrading urban green spaces.
@@ -34,7 +34,7 @@ Each Climate Impact Chain includes a detailed explanation of its sequences, allo
 **Sequence 1. Institutional impacts**
 In the first sequence of impacts proposed, the focus is on the reduced capacity to keep appropriate and frequent maintenance and inspection to degrading urban ecosystems provoked by urban heat, warming and droughts. The proposed impact factors in this first sequence emerge as propositions provided by the participants during the workshop. The cause-effect relationships are presented below. 
 
-<img width="449" height="408" alt="image" src="https://github.com/user-attachments/assets/4014289e-cc7e-4bce-8159-874adacc5947" />
+<img width="449" height="408" alt="image" src="CIC_1.png" />
 
 
 
