@@ -42,5 +42,13 @@ Edit or add pages under `docs/`. Maintain one H1 per page, provide descriptive a
 ## License
 Please add a license statement here if applicable.
 
+## Acknowledgments
+
+We acknowledge the use of GitHub Copilot, an AI-based code completion tool, which assisted in the development of the code used in this research.
+
+## References
+
+GitHub Copilot. GitHub, Inc. Available at: https://github.com/features/copilot
+
 ---
 Project home: https://github.com/valorada/documentation
