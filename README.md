@@ -44,7 +44,7 @@ Please add a license statement here if applicable.
 
 ## Acknowledgments
 
-We acknowledge the use of GitHub Copilot, an AI-based code completion tool, which assisted in the development of the code used in this research.
+We acknowledge the use of GitHub Copilot, an AI-based code completion tool, which assisted in the conversion of documentation into markdown format. 
 
 ## References
 
