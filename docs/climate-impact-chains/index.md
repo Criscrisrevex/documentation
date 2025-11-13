@@ -4,6 +4,32 @@ title: Climate Impact Chains Overview
 
 # Climate Impact Chains (CICs)
 
+Climate Impact Chains describe relationships between climate hazards and cascading impacts across ecological, social, infrastructural and economic components. They help reveal indirect effects, risks of maladaptation, feedback loops and leverage points for adaptation.
+
+## List of Chains
+| # | Title | Main Hazards |
+|---|-------|--------------|
+| 1 | Urban Ecosystems Degradation | High temperature, drought |
+| 2 | Heat & Health in Mobility Systems | High temperature |
+| 3 | Drought & Agricultural Livelihoods | Drought, heat |
+| 4 | Wildfire Risk Escalation | High temperature, drought |
+| 5 | Floods & Rural Livelihoods | Extreme precipitation |
+
+## How to Use
+Each chain page contains:
+* Main risk statement
+* Key policy issues
+* Numbered sequences showing causal pathways
+* Diagrams (images) with alt text
+
+Select a chain in the navigation to explore details.
+
+Return to [Home](../index.md).---
+title: Climate Impact Chains Overview
+---
+
+# Climate Impact Chains (CICs)
+
 Climate Impact Chains describe the relationship between a climate hazard and its cascading impacts across ecological, social, infrastructural and economic components of a system. They help identify indirect impacts, risks of maladaptation, feedback loops, and leverage points for intervention.
 
 The CICs in VALORADA were co-developed with stakeholders in demonstrator regions to ensure practical relevance.

@@ -25,23 +25,5 @@ How the ECDE application and derived Copernicus datasets support indicator-drive
 ## 💠 Climate Data Valuation Framework
 Structured criteria (Relevance, Strategic Value, Usability, Quality) with definitions, indicators, and scoring guidance to support transparent prioritisation of datasets.
 
-## Getting Started Locally
-
-To build and serve this documentation:
-
-```bash
-pip install mkdocs mkdocs-material
-mkdocs serve
-```
-
-Then open http://127.0.0.1:8000.
-
-## Contributing
-Improvements welcome. When adding new CICs or datasets:
-* Keep one H1 title per page.
-* Provide alt text for images and prefer Markdown image syntax.
-* Maintain consistent heading depth (H2 for section, H3 for subsections).
-* Cross-link related sequences / frameworks where relevant.
-
 ---
 Project repository: https://github.com/valorada/documentation

@@ -1,11 +1,8 @@
-# Climate-Impact-Chains
-This repository outlines each of the Climate Impact Chains developed in the course of the VALORADA project.
-
 # Climate Impact Chains
 Risks associated with climate change are often analysed in isolation, focusing only on specific economic sectors or ecosystems. However, this narrow approach can miss indirect impacts, risks of maladaptation and feedback loops. 
 A climate-impact chain describes the relationship between a particular climate hazard and its impact on a specific area of influence, thereby helping identify cause-effect relationships between different components within a system. 
 
-# Five climate impact chains and their respective hazards are displayed:
+## Five climate impact chains and their respective hazards are displayed:
 
 * Degradation of urban ecosystems due to urban heat and droughts -	**High temperature and Drought**
 * Extreme high temperatures on people’s health in the context of urban transport -	**High temperature**
@@ -13,13 +10,13 @@ A climate-impact chain describes the relationship between a particular climate h
 * Wildfire affecting infrastructure	- **High temperature and Drought**
 * Floods affecting rural livelihoods -	**Extreme precipitation**
 
-# Climate Impact Chains (CICs) in VALORADA
+## Climate Impact Chains (CICs) in VALORADA
 The Climate Impact Chains (CICs) were co-developed with stakeholders from VALORADA’s demonstrator regions, ensuring validation against real-world contexts. While CICs serve as a generic framework for exploring climate risks, they are also illustrated with concrete examples from the demonstrator regions, reinforcing their practical relevance and applicability.
 
-# Exploring Climate Impact Chains
+## Exploring Climate Impact Chains
 Each Climate Impact Chain includes a detailed explanation of its sequences, allowing readers to examine the potential implications of the identified risk factors. To support practical understanding, illustrative examples of policy challenges associated with each chain are provided. While not exhaustive, these examples highlight key issues and serve as a starting point for further exploration.  
 
-# Climate Impact Chain 1. 
+### Climate Impact Chain 1
 **Main Risk: Degradation of urban ecosystems due to urban heat and droughts.** 
 <img width="622" height="310" alt="image" src="https://github.com/user-attachments/assets/c7f1ba19-d6a1-4a95-81cd-461de85cca95" />
 
@@ -88,7 +85,7 @@ In the eighth sequence of impacts proposed, the focus is on the degradation of u
 
 
 
-# Climate Impact Change 2. 
+### Climate Impact Chain 2 
 **Main risk: Heat affecting people’s health: transport and deterioration of social and environmental determinants of health**
 
 <img width="567" height="346" alt="image" src="https://github.com/user-attachments/assets/ac1d3f43-93a4-4c25-ad52-494b10ba0f22" />
@@ -157,7 +154,7 @@ In the tenth sequence of impacts proposed, the focus is on the shifting the envi
 <img width="456" height="619" alt="image" src="https://github.com/user-attachments/assets/842e8260-8a96-48fd-a93e-8ce2ca6dc01d" />
 
 
-# Climate Impact chain 3: 
+### Climate Impact chain 3 
 **Main Risk: Drought affecting agricultural production and rural livelihoods**
 
 <img width="679" height="357" alt="image" src="https://github.com/user-attachments/assets/8d6a21c3-cbfb-4eaa-b2ac-841fbdc691ea" />
@@ -202,7 +199,7 @@ In the fifth sequence, the focus is on the effects of hydrological droughts on t
 <img width="455" height="622" alt="image" src="https://github.com/user-attachments/assets/976c9231-2e22-48ac-a496-331ac4fc80a9" />
 
  
-# Climate Impact Chain 4: 
+### Climate Impact Chain 4 
 **Main risk: Drought and heat increasing the risk of wildfire**
 
 <img width="684" height="342" alt="image" src="https://github.com/user-attachments/assets/55a1abdd-5c75-4441-9543-eb232ce584e7" />
@@ -254,7 +251,7 @@ This sequence is connected to sequence 7, as far as tourism is disrupted in the 
 <img width="479" height="668" alt="image" src="https://github.com/user-attachments/assets/bf4cb831-1ae4-4224-bf04-56c331833638" />
 
 
-# Climate Impact chain 5: 
+### Climate Impact chain 5: 
 **Main Risk: Floods affecting rural livelihoods.**
 
 <img width="666" height="347" alt="image" src="https://github.com/user-attachments/assets/3f7d85b1-6a4a-4a44-b928-594576811ee9" />

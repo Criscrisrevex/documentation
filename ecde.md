@@ -1,7 +1,4 @@
-# Copernicus-Climate-Change-s-Services-C3S-supporting-European-Environment-Agency-EEA-Climate-Adapt
-This repository introduces the Copernicus Climate Change’s Services’ (C3S) resources developed to support the European Environment Agency (EEA) Climate Adapt. 
-
-## European Climate Data Explorer (ECDE) indicator visualisation application
+# European Climate Data Explorer (ECDE) indicator visualisation application
 
 The European Climate Data Explorer (ECDE) indicator visualisation application (referred to as ECDE application hereafter) is a web application of the Copernicus Climate Change Service (C3S) allowing for flexible temporal and spatial exploration and analysis of recent past trends and projected future changes of a range of key climate indicators from multiple datasets.  
 

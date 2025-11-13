@@ -32,12 +32,12 @@ nav:
   - Home: index.md
   - Climate Impact Chains:
       - Overview: climate-impact-chains/index.md
-      - Urban Ecosystems (Heat & Drought): climate-impact-chains/chain-urban-ecosystems.md
-      - Heat & Health in Transport: climate-impact-chains/chain-heat-health-transport.md
-      - Drought & Agriculture: climate-impact-chains/chain-drought-agriculture.md
-      - Wildfire (Heat & Drought): climate-impact-chains/chain-wildfire.md
-      - Floods & Rural Livelihoods: climate-impact-chains/chain-floods-rural-livelihoods.md
-  - Data & Tools:
-      - ECDE Application: data/ecde.md
-  - Framework:
-      - Climate Data Valuation Framework: framework/data-valuation-framework.md
+      - CIC 1 – Urban Ecosystems Degradation: climate-impact-chains/chain-1-urban-ecosystems.md
+      - CIC 2 – Heat & Health in Mobility Systems: climate-impact-chains/chain-2-heat-health-mobility.md
+      - CIC 3 – Drought & Agricultural Livelihoods: climate-impact-chains/chain-3-drought-agriculture.md
+      - CIC 4 – Wildfire Risk Escalation: climate-impact-chains/chain-4-wildfire-risk.md
+      - CIC 5 – Floods & Rural Livelihoods: climate-impact-chains/chain-5-floods-rural-livelihoods.md
+  - ECDE:
+      - ECDE Application: ecde/index.md
+  - Frameworks:
+      - Data Valuation Framework: data-valuation-framework/index.md
