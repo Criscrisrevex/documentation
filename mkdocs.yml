@@ -6,6 +6,7 @@ repo_url: https://github.com/valorada/documentation
 edit_uri: ''
 theme:
   name: material
+  logo: assets/VALORADA-picto.png
   features:
     - navigation.sections
     - navigation.instant
