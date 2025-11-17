@@ -5,6 +5,7 @@ title: CIC 3 – Drought & Agricultural Livelihoods
 # CIC 3 – Drought & Agricultural Livelihoods
 
 **Main Risk:** Drought affecting agricultural production and rural livelihoods.
+<img width="679" height="357" alt="CIC3" src="https://github.com/user-attachments/assets/5929b26c-830b-4579-a8ab-b2ae59803fec" />
 
 ## Key Policy Issues
 * Water scarcity & competing uses.
