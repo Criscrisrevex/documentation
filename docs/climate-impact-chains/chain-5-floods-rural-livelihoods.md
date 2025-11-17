@@ -5,6 +5,7 @@ title: CIC 5 – Floods & Rural Livelihoods
 # CIC 5 – Floods & Rural Livelihoods
 
 **Main Risk:** Floods affecting rural livelihoods.
+<img width="666" height="347" alt="CIC5" src="https://github.com/user-attachments/assets/28e12ccb-9e3b-45d7-a080-64bd1f167ff2" />
 
 ## Key Policy Issues
 * Flooding of agricultural land & rural infrastructure.
@@ -14,15 +15,15 @@ title: CIC 5 – Floods & Rural Livelihoods
 
 ## Sequences
 ### 1. Hydrogeological events → chemical pollutant dissemination
-<img width="455" height="601" alt="Chemical pollutant dissemination" src="https://github.com/user-attachments/assets/1eecbeb6-1da4-4fb1-9d65-fa9af7f2c54f" />
+<img width="2090" height="2759" alt="S 5 1" src="https://github.com/user-attachments/assets/892ad290-9663-41ea-97c1-fa7c6254e8a7" />
 
 ### 2. Interruption of public services (transport networks)
-<img width="434" height="268" alt="Interruption of public services" src="https://github.com/user-attachments/assets/bf0b38ce-febb-4aec-a999-20b7c45cc65d" />
+<img width="1993" height="1232" alt="S 5 2" src="https://github.com/user-attachments/assets/856e772f-e1cb-459b-97f1-3a74160b00db" />
 
 ### 3. Soil degradation & reduced productivity
-<img width="471" height="590" alt="Soil degradation" src="https://github.com/user-attachments/assets/7d795e9d-73c6-4777-a5c4-3e382cb08290" />
+<img width="2167" height="2708" alt="S 5 3" src="https://github.com/user-attachments/assets/51417e5d-772f-41f1-95cf-e9e1d28c6803" />
 
 ### 4. Demographic trends & land use change
-<img width="454" height="585" alt="Demographic and land use change" src="https://github.com/user-attachments/assets/b7215d3c-8a09-418a-857a-ed55440324d5" />
+<img width="2090" height="2685" alt="S 5 4" src="https://github.com/user-attachments/assets/d1eb3025-0571-4513-9327-15de267a39cf" />
 
 Return to [Overview](index.md).
