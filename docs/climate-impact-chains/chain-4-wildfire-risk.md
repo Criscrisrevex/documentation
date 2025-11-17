@@ -5,6 +5,8 @@ title: CIC 4 – Wildfire Risk Escalation
 # CIC 4 – Wildfire Risk Escalation
 
 **Main Risk:** Drought and heat increasing the risk of wildfire.
+<img width="2205" height="1314" alt="CIC_4" src="https://github.com/user-attachments/assets/6bdaa7dc-7eb1-40cd-b76d-cabafc6ba243" />
+
 
 ## Key Policy Issues
 * Elevated wildfire risk (heat, drought, poor forest management).
@@ -14,24 +16,24 @@ title: CIC 4 – Wildfire Risk Escalation
 
 ## Sequences
 ### 1. Seasonal extremes → fuel generation
-<img width="456" height="613" alt="Seasonal extremes fuel" src="https://github.com/user-attachments/assets/0dfc82fc-11cb-4355-8e5d-673c08e6af0d" />
+<img width="2090" height="2814" alt="S 4 1" src="https://github.com/user-attachments/assets/a7bf882d-fbd6-44c0-911f-ff426b9befac" />
 
 ### 2. Increased drought & temperature
-<img width="449" height="617" alt="Drought and temperature" src="https://github.com/user-attachments/assets/760e28f6-c81b-4c2f-b89a-59d0f7fee5f0" />
+<img width="2067" height="2841" alt="S 4 2" src="https://github.com/user-attachments/assets/1c372e2c-5e85-4ba9-9f90-32ee97e2f43d" />
 
 ### 3. Forestry practices & biomass accumulation
-<img width="456" height="544" alt="Forestry practices biomass" src="https://github.com/user-attachments/assets/b19028a1-7b7a-4a89-a5f4-b380c411b353" />
+<img width="2090" height="2502" alt="S 4 3" src="https://github.com/user-attachments/assets/35c048ce-29dd-4c51-ba35-2925acc7a733" />
 
 ### 4. Farming practices & ignition risk
-<img width="457" height="239" alt="Farming practices ignition" src="https://github.com/user-attachments/assets/1e820e2f-62ee-4fac-8a58-09ad4ded8128" />
+<img width="2099" height="1100" alt="S 4 4" src="https://github.com/user-attachments/assets/4c064fd5-5935-4f67-bedc-827bdac4ba01" />
 
 ### 5. Rural–urban migration & land abandonment
-<img width="457" height="256" alt="Rural urban migration" src="https://github.com/user-attachments/assets/13300d14-67f5-41ff-a382-7f869b08ed53" />
+<img width="2099" height="1173" alt="S 4 5" src="https://github.com/user-attachments/assets/a06ae084-65eb-4650-811b-25b33c16aa78" />
 
 ### 6. Tourism & propagation risk
-<img width="470" height="457" alt="Tourism propagation risk" src="https://github.com/user-attachments/assets/f2a70ce1-765a-432a-b24b-8d81bbff9f79" />
+<img width="2163" height="2099" alt="S 4 6" src="https://github.com/user-attachments/assets/73376308-8e1e-435a-8746-7d88b409dab0" />
 
 ### 7. Socio-economic & ecological impacts
-<img width="479" height="668" alt="Socio-economic ecological impacts" src="https://github.com/user-attachments/assets/bf4cb831-1ae4-4224-bf04-56c331833638" />
+<img width="2200" height="3070" alt="S 4 7" src="https://github.com/user-attachments/assets/42ff10c2-33c7-48ed-9750-964b6997121b" />
 
 Return to [Overview](index.md).
