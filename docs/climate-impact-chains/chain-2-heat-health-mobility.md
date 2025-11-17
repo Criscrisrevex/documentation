@@ -5,6 +5,7 @@ title: CIC 2 – Heat & Health in Mobility Systems
 # CIC 2 – Heat & Health in Mobility Systems
 
 **Main Risk:** Heat affecting people’s health in urban transport contexts and degrading social & environmental determinants of health.
+<img width="1744" height="1062" alt="CIC_2" src="https://github.com/user-attachments/assets/8713a78e-fd1b-4d33-addf-3362fa9f6378" />
 
 ## Key Policy Issues
 * Heat stress & accidents (public transport, cycling, walking).
@@ -15,33 +16,33 @@ title: CIC 2 – Heat & Health in Mobility Systems
 
 ## Sequences
 ### 1. Heat → air pollution → health effects
-<img width="449" height="559" alt="Air pollution and health" src="https://github.com/user-attachments/assets/033c2e66-72c6-4c9f-acf1-b641d25f1457" />
+<img width="2062" height="2571" alt="S 2 1" src="https://github.com/user-attachments/assets/0a9c5389-ef74-48d1-a853-9bb0effca9e4" />
 
 ### 2. Household exposure & indoor heat
-<img width="454" height="637" alt="Indoor heat health" src="https://github.com/user-attachments/assets/b5ae57fc-8e68-40f7-b08b-574d880bb360" />
+<img width="2090" height="2928" alt="S 2 2" src="https://github.com/user-attachments/assets/ff7ad965-90df-4c53-b5fd-c1abd2da7a8a" />
 
 ### 3. Reduced productivity & occupational health
-<img width="451" height="615" alt="Work productivity heat" src="https://github.com/user-attachments/assets/e95f1dbe-9d70-4798-abe6-181822d341eb" />
+<img width="2076" height="2827" alt="S 2 3" src="https://github.com/user-attachments/assets/ee04d864-2392-41cf-83a9-82ba33db9fa2" />
 
 ### 4. Mobility accidents & infrastructure stress
-<img width="458" height="589" alt="Accidents and stress" src="https://github.com/user-attachments/assets/9a454331-00a6-408f-9621-9e9c2ebc05a9" />
+<img width="2108" height="2704" alt="S 2 4" src="https://github.com/user-attachments/assets/b86ec2af-ffb9-40f6-ad26-2c1ca877186d" />
 
 ### 5. Mobility risks (behavioural & physiological)
-<img width="451" height="481" alt="Mobility risks" src="https://github.com/user-attachments/assets/61f30a33-f7d2-4de7-8854-7c2ec4d4f93c" />
+<img width="2076" height="2209" alt="S 2 5" src="https://github.com/user-attachments/assets/ae7069d7-5de9-4361-a589-6f1db9c144e8" />
 
 ### 6. Reduced water availability → ecosystems & economy
-<img width="448" height="597" alt="Water availability" src="https://github.com/user-attachments/assets/6939dc6c-3e40-4947-a0d4-a9728a16c997" />
+<img width="2057" height="2745" alt="S 2 6" src="https://github.com/user-attachments/assets/24bd18d7-60c0-4dbb-8ac1-7f672ef623a0" />
 
 ### 7. River ecosystem degradation
-<img width="450" height="490" alt="River ecosystem heat" src="https://github.com/user-attachments/assets/3230c6ec-c629-405b-a13a-a6c69262e2cb" />
+<img width="2067" height="2255" alt="S 2 7" src="https://github.com/user-attachments/assets/14ec130c-08ad-449d-bc91-69a37c865f7b" />
 
 ### 8. Loss of cooling ecosystem services
-<img width="456" height="634" alt="Loss of cooling spaces" src="https://github.com/user-attachments/assets/5001a436-c3fa-484b-9592-cd15c05c0c48" />
+<img width="2090" height="2915" alt="S 2 8" src="https://github.com/user-attachments/assets/7f1f446f-093b-4108-9570-c5cbcc60cda9" />
 
 ### 9. Population dynamics & forage availability
-<img width="462" height="607" alt="Population dynamics heat" src="https://github.com/user-attachments/assets/c04bc2fa-f5eb-4fec-8716-9044bc78f5de" />
+<img width="2122" height="2786" alt="S 2 9" src="https://github.com/user-attachments/assets/1c262485-4997-46f6-a335-2cfe5644c81c" />
 
 ### 10. Increased water- & food-borne disease
-<img width="456" height="619" alt="Water and food-borne disease" src="https://github.com/user-attachments/assets/842e8260-8a96-48fd-a93e-8ce2ca6dc01d" />
+<img width="2090" height="2846" alt="S 2 10" src="https://github.com/user-attachments/assets/64bc5895-0f48-4e88-9ba0-27379f645673" />
 
 Return to [Overview](index.md).
