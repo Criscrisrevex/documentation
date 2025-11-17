@@ -5,6 +5,7 @@ title: CIC 2 – Heat & Health in Mobility Systems
 # CIC 2 – Heat & Health in Mobility Systems
 
 **Main Risk:** Heat affecting people’s health in urban transport contexts and degrading social & environmental determinants of health.
+<img width="1735" height="1060" alt="CIC2" src="https://github.com/user-attachments/assets/a51dc46f-eb30-41d2-97e6-1b55b26b87ab" />
 
 ## Key Policy Issues
 * Heat stress & accidents (public transport, cycling, walking).
