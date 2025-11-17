@@ -17,34 +17,41 @@ title: CIC 1 – Urban Ecosystems Degradation
 ## Sequences
 ### 1. Institutional impacts
 Reduced maintenance & inspection capacity accelerates degradation.
-<img width="449" height="408" alt="Institutional impacts" src="https://github.com/user-attachments/assets/4014289e-cc7e-4bce-8159-874adacc5947" />
+<img width="2062" height="1879" alt="S 1 1" src="https://github.com/user-attachments/assets/ac22d792-763d-4dd3-9e99-34cef75535ee" />
 
 ### 2. Expansion of pests and pathogens
 Heat & drought enable spread and persistence.
-<img width="443" height="495" alt="Pests and pathogens" src="https://github.com/user-attachments/assets/1f85a795-3d6e-4b02-8554-6e18e6355c0c" />
+<img width="2035" height="2273" alt="S1 2" src="https://github.com/user-attachments/assets/86b7d700-d2dd-4dd5-806f-28b90f4fdfbf" />
+
 
 ### 3. Drought & heat on river ecosystems
 Aquatic habitat degradation under compounded stress.
-<img width="450" height="490" alt="River ecosystems" src="https://github.com/user-attachments/assets/4384257d-84bb-4cce-affc-a68eea7bb65d" />
+<img width="2067" height="2255" alt="S 1 3" src="https://github.com/user-attachments/assets/17b79a0b-8c3f-4367-95b7-0c6fff08202f" />
+
 
 ### 4. Heat on pests & tree degradation
 Tree health declines; new pest assemblages emerge.
-<img width="455" height="559" alt="Tree degradation" src="https://github.com/user-attachments/assets/f6dfbe17-7beb-4299-84ef-a41055459f35" />
+<img width="2090" height="2566" alt="S 1 4" src="https://github.com/user-attachments/assets/5309e9db-577d-4d78-893a-8f6a39ccf560" />
+
 
 ### 5. Promotion of invasive species
 Specialised species decline; invasive species fill niches.
-<img width="451" height="484" alt="Invasive species" src="https://github.com/user-attachments/assets/cbae5c37-1895-48e0-aa83-9346736daa13" />
+<img width="2071" height="2222" alt="S 1 5" src="https://github.com/user-attachments/assets/14c8b703-813e-471b-afeb-4d57e19950d3" />
+
 
 ### 6. Population dynamics & forage availability
 Extreme heat alters growth, reproduction, food webs.
-<img width="463" height="566" alt="Population dynamics" src="https://github.com/user-attachments/assets/c5a13af6-2db9-4fdd-9805-b5f9a3ca6804" />
+<img width="2126" height="2598" alt="S 1 6" src="https://github.com/user-attachments/assets/66ac5c64-6df2-47f9-b2f7-f18d927a29fb" />
+
 
 ### 7. Plant physiology
 Stress in photosynthesis, respiration, water regulation reduces resilience.
-<img width="459" height="525" alt="Plant physiology" src="https://github.com/user-attachments/assets/7b8177ff-ded2-4f77-80cc-b61b21e29a9e" />
+<img width="2108" height="2410" alt="S 1 7" src="https://github.com/user-attachments/assets/c6ee1bf0-d5a5-49a4-82ef-f49c414f43e5" />
+
 
 ### 8. Heat & air pollution
 Higher temperatures exacerbate pollutant formation impacting vegetation.
-<img width="449" height="586" alt="Air pollution impacts" src="https://github.com/user-attachments/assets/867819a3-7f21-4594-b0e3-033cd49d4b48" />
+<img width="2062" height="2695" alt="S 1 8" src="https://github.com/user-attachments/assets/0214e70a-b774-4258-a82e-5e65fc8c3a7e" />
+
 
 Return to [Overview](index.md).
